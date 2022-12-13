@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS document */
 body 
-{background-image: url(../IMAGES/bg_blog.jpg);
+{background-image: url(bg_blog.jpg);
  background-size: cover;
  font-family: Charter, Verdana;    
 }
